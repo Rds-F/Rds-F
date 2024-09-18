@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tenor.com/b0KL3.gif"  />
+  <img height="150" src="https://wallpaperwaifu.com/wp-content/uploads/2022/12/mayoi-shigure-blue-archive-thumb-1500x844.jpg"  />
 </div>
 
 ###
