@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="150" src="https://wallpaperwaifu.com/wp-content/uploads/2022/12/mayoi-shigure-blue-archive-thumb-1500x844.jpg"  />
-</div>
-
-###
-
 <h1 align="center">Hallo 👋</h1>
 
 ###
